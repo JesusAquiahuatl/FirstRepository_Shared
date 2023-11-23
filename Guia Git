@@ -6,5 +6,5 @@
 #fundamental en el desarrollo de software colaborativo.
 #comandos
 commit :- Nos permite actualizar un documento y guardarlo en el local
-
+push :- se sube el cambio al Git.
 
