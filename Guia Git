@@ -1,0 +1,14 @@
+#¿Que es git?
+#Git es un sistema de control de versiones distribuido que se utiliza para rastrear cambios en el código fuente 
+#durante el desarrollo de software. Fue creado por Linus Torvalds en 2005 y se ha convertido en una herramienta 
+#fundamental en el desarrollo de software colaborativo.
+#¿Que es github?
+#GitHub es una plataforma de desarrollo colaborativo basada en Git. Proporciona servicios para alojar repositorios
+# de código, colaboración en equipo, seguimiento de problemas, integración continua y despliegue, entre otras funciones.
+#GitHub hace que sea más fácil para los desarrolladores colaborar en proyectos de software, ya que ofrece una interfaz
+#web amigable para trabajar con repositorios Git y agrega características sociales que facilitan la colaboración y la 
+#contribución de la comunidad
+#comandos
+commit :- Nos permite actualizar un documento y guardarlo en el local
+push :- se sube el cambio al Git.
+pull :- una vez que un colaborador hizo un cambio y realizó el comando push, es deber actualizar el repo antes de hacer otro push
