@@ -7,4 +7,4 @@
 #comandos
 commit :- Nos permite actualizar un documento y guardarlo en el local
 push :- se sube el cambio al Git.
-
+pull :- una vez que un colaborador hizo un cambio y realizó el comando push, es deber actualizar el repo antes de hacer otro push
